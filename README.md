@@ -1,5 +1,7 @@
 # Spark-And-MLlib-Projets
 
+Navigate to /Spark-And-MLlib-Projects and start the containers:
+
 .. code-block:: bash
 git init
 git add .
